@@ -6,7 +6,7 @@ Analysis of job posting trends, skill requirements, and hiring patterns in the d
 ## Tools Used
 - Python
 - Pandas, NumPy
-- Matplotlib, Seaborn
+- Matplotlib, Seaborn, Plotly
 - spaCy for NLP
 - Jupyter Notebook
 
