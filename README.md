@@ -17,8 +17,8 @@ Analysis of job posting trends, skill requirements, and hiring patterns in the d
 
 ## How to Reproduce
 ```bash
-git clone https://github.com/yourusername/data-science-job-analysis.git
-cd data-science-job-analysis
+git clone https://github.com/yourusername/ds-job-trends-analysis.git
+cd ds-job-trends-analysis
 pip install -r requirements.txt
 jupyter notebook notebooks/Trends and Skill Analysis in Data Science Job Postings.ipynb
 ```
